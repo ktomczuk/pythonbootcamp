@@ -1,0 +1,2 @@
+while TrueŁ
+temp = float(input('Podaj dzisiejsza temp '))
