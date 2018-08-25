@@ -1,5 +1,4 @@
-venv/
+venv /
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
-
