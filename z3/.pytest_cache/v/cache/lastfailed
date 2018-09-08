@@ -1,0 +1,8 @@
+{
+  "2.py::test_pritn_produkt2": true,
+  "3.py::test_produkt": true,
+  "4.py::test_car": true,
+  "4_1.py::test_car_below": true,
+  "5a.py::test_basket_report": true,
+  "5a.py::test_print_info": true
+}

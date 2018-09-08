@@ -1,0 +1,11 @@
+[
+  "5a.py::test_product_exist",
+  "5a.py::test_print_info",
+  "5a.py::test_basket_initialization",
+  "5a.py::test_basket_add_product",
+  "5a.py::test_basket_add_two_products",
+  "5a.py::test_basket_add_product_twice",
+  "5a.py::test_count_entry_price",
+  "5a.py::test_basket_count_total_price",
+  "5a.py::test_basket_report"
+]
