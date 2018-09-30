@@ -55,6 +55,7 @@ def test_emp_of_the_month():
 
 
 def import_from_text():
+
     param = "henryk":"kania":50
     emp = PremiumEmployee.create_hero()
     assert emp.pay_salary() == 0

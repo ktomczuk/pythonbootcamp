@@ -7,7 +7,7 @@ class Product:
     def print_info(self):
         return f'"{self.name}", id: {self.id}, cena: {self.price} PLN'
 
-    def __str__(self):
+    def __str__(self): # przedstawinie obiektu w sposób czytelny
         return f"{self.id} | {self.name} | {self.price}"
 
 
@@ -37,9 +37,9 @@ class Basket:
             suma += entry.count_entry_price()
         return suma
 
-    def report(self):
+    def report(self, product, quantity):
         for entry in self.entries:
-            print(f'ID: {BasketEntry_product_id}, {self.name}, ilość: {self.quantity}, cena {entry.count_entry_price} PLN ')
+            print(f'ID: {self.product.id}, {self.product.name}, ilość: {self.quantity}, cena {entry.count_entry_price} PLN ')
         return 0
 
 

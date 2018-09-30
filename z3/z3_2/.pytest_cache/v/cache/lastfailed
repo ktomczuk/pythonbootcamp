@@ -1,5 +1,6 @@
 {
   "z6_2.py::test_sorted": true,
   "z6_2.py::test_vector_add_not_vector": true,
-  "z7_2.py::test_produkt": true
+  "z7_2.py::test_produkt": true,
+  "z7_a.py": true
 }
